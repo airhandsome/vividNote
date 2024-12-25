@@ -119,3 +119,17 @@ vividnote/
 ## 致谢
 
 感谢所有为这个项目做出贡献的开发者。
+
+## 项目截图
+
+### 主界面
+![主界面](images/origin-note.png)
+
+### 原始笔记
+![原始笔记编辑](images/origin-note.png)
+
+### 原子笔记
+![原子笔记展示](images/atomic.png)
+
+### 搜索功能
+![搜索功能](images/search.png)
